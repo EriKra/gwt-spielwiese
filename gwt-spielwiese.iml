@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="gwt" name="GWT">
       <configuration>
-        <setting name="gwtSdkUrl" value="file://D:/tools/programming_tools/gwt-2.7.0" />
+        <setting name="gwtSdkUrl" value="file://$USER_HOME$/Downloads/gwt-2.7.0" />
         <setting name="webFacet" value="Web" />
       </configuration>
     </facet>
@@ -27,6 +27,5 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="gwt-user" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 7.0.52" level="application_server_libraries" />
   </component>
 </module>

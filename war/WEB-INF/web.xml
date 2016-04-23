@@ -6,11 +6,11 @@
          version="3.0">
 
     <servlet>
-        <servlet-name>MySampleApplication MySampleApplicationService</servlet-name>
+        <servlet-name>com.mySampleApplication.MySampleApplication MySampleApplicationService</servlet-name>
         <servlet-class>com.mySampleApplication.server.MySampleApplicationServiceImpl</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>MySampleApplication MySampleApplicationService</servlet-name>
+        <servlet-name>com.mySampleApplication.MySampleApplication MySampleApplicationService</servlet-name>
         <url-pattern>/MySampleApplication/MySampleApplicationService</url-pattern>
     </servlet-mapping>
 </web-app>
